@@ -1,0 +1,31 @@
+/* Resetando margens e preenchimentos padrão */
+n_abas_content {
+    padding: 50px;
+}
+
+/* Aplicando o estilo ao botão */
+.styled-button {
+    background-color: #00ced1;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Definindo o estilo da página */
+body {
+    background-color: #f5f5f5; /* Um branco amigável */
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    padding: 15px 50px 50px 50px;
+}
+
+footer {
+    margin-top: 20px;
+    position: fixed;
+}
+
