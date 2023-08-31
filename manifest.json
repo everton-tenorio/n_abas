@@ -4,8 +4,7 @@
   "version": "1.0",
   "author": "everton-tenorio",
   "description": "Uma extensão para capturar urls de abas do Chrome e salvá-las em arquivo .txt",
-  "minimum_chrome_version": "88",
-  "permissions": ["tabs", "storage"],
+  "permissions": ["tabs"],
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
