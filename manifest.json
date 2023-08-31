@@ -3,7 +3,7 @@
   "name": "n_abas",
   "version": "1.0",
   "author": "everton-tenorio",
-  "description": "Uma extensão para capturar as urls das abas abertas no Chrome.",
+  "description": "Uma extensão para capturar urls de abas do Chrome e salvá-las em arquivo .txt",
   "permissions": ["tabs"],
   "browser_action": {
     "default_popup": "popup.html",
