@@ -1,31 +1,38 @@
-/* Resetando margens e preenchimentos padrão */
-n_abas_content {
-    padding: 50px;
-}
-
-/* Aplicando o estilo ao botão */
-.styled-button {
-    background-color: #00ced1;
-    border: none;
-    border-radius: 10px;
-    padding: 10px 20px;
-    color: white;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-
-/* Definindo o estilo da página */
 body {
-    background-color: #f5f5f5; /* Um branco amigável */
-    font-family: 'Josefin Sans', sans-serif;
-    text-align: center;
-    padding: 15px 50px 50px 50px;
+    background-color: #03FCB1;
+	font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+	text-align: center;
+	padding: 10px;  
+	color: black;
 }
 
 footer {
-    margin-top: 20px;
-    position: fixed;
+	margin-top: 10px;
+	position: fixed;
+	font-size: 10px;
+	color: #7d7d7d;
 }
 
+/* Resetando margens e preenchimentos padrão */
+n_abas_content {
+	padding: 20px;
+	width: 80px;
+	height: 60px;
+}
+
+/* button */
+.styled-button {
+    padding: 5px;
+	background-color: white;
+	border: none;
+	border-radius: 10px;
+	padding: 10px 25px;
+	color: black;
+	cursor: pointer;
+}
+
+.styled-button:hover {
+	background-color: #0080ff; 
+	color: white; 
+}
