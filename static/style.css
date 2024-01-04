@@ -7,13 +7,6 @@ body {
 	color: black;
 }
 
-footer {
-	margin-top: 10px;
-	position: fixed;
-	font-size: 10px;
-	color: #7d7d7d;
-}
-
 /* Resetando margens e preenchimentos padrão */
 n_abas_content {
 	padding: 20px;
